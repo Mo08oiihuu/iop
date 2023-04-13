@@ -4,6 +4,6 @@
 
   "text": "خوش آمدید",
 
-  "on_off": true
+  "on_off": false
 
 }
